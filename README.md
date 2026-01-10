@@ -26,6 +26,9 @@ welcome to my GitHub Page. I am Lucas Franciscon and now graduated Data Analyst 
   🛠 <strong>Technical Stack:</strong> Python, SQL, Machine Learning, Applied Statistics, and Data Modeling.
 </p>
 
+  👔 <strong>Check out my linkedin:</strong> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luiz-g-pereira/)
+
+[![Minhas habilidades](https://skillicons.dev/icons?i=py,mysql,anaconda,powershell)](https://skillicons.dev/)
 <!--
 **Lord-of-Souls/Lord-of-Souls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
