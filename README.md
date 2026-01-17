@@ -15,12 +15,26 @@
 </p>
 <p>
   His approach to technology is grounded in analytical rigor and a passion for mathematics. He believes that in today’s landscape, the ability to solve complex problems through Statistics and Machine Learning is what defines the agility and strategic vision of a successful business.
+ </p>
+<p>
   Having pivoted entirely into Data Analysis, he consolidated his expertise through an intensive Data Analysis program at TripleTen. He specializes in the end-to-end data lifecycle: from precise data collection and the formulation of rigorous hypotheses to the creation of advanced dashboards. He excels at translating complex mathematical models into clear, actionable financial and operational insights for stakeholders and colleagues alike.
+ </p>
+<p>
   A Brazilian citizen with a background in competitive science, he leverages a unique combination of logical precision and data storytelling to drive results.
+ </p>
+<p>
 🛠 Technical Stack: Python, SQL, Machine Learning, Applied Statistics, Data Modeling, and Data Storytelling.
+ </p>
+<p>
 🎯Core Competencies:
+ </p>
+<p>
  - Strategic Hypothesis Testing: Designing and executing A/B tests and statistical analyses to prioritize business implementations.
+ </p>
+<p>
  - Advanced Visualization: Building intuitive dashboards and presentations using Seaborn and Plotly to communicate findings to leadership.
+ </p>
+<p>
  - Data Integrity: Applying a high level of precision to data cleaning and preprocessing to ensure reliable decision-making.
 </p>
 
