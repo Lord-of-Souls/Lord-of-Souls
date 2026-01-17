@@ -23,7 +23,7 @@
   A Brazilian citizen with a background in competitive science, he leverages a unique combination of logical precision and data storytelling to drive results.
  </p>
 <p>
-🛠 Technical Stack: Python, SQL, Machine Learning, Applied Statistics, Data Modeling, and Data Storytelling.
+🛠 Technical Stack: Python | SQL | Machine Learning | Applied Statistics | Data Modeling | Data Storytelling.
  </p>
 <p>
 🎯Core Competencies:
