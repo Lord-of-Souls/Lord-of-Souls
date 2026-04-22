@@ -11,7 +11,7 @@
 </div>
 <p></p>
 <p align="justify">
-  Welcome to my GitHub Page. I am Lucas Franciscon and now graduated Data Analyst in the TripleTen Brazil's Data Analysis Bootcamp.
+  Welcome. This GitHub Page belongs to Lucas Franciscon.Data Analyst graduate in TripleTen Brazil's Data Analysis Bootcamp.
 </p>
 <p>
   His approach to technology is grounded in analytical rigor and a passion for mathematics. He believes that in today’s landscape, the ability to solve complex problems through Statistics and Machine Learning is what defines the agility and strategic vision of a successful business.
